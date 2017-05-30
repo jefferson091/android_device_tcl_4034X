@@ -183,3 +183,6 @@ persist.debug.wfd.enable=1
 
 #config low ram device
 ro.config.low_ram=true
+
+# change max users
+fw.max_users=4
