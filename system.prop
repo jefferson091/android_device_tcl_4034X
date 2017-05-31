@@ -186,3 +186,4 @@ ro.config.low_ram=true
 
 # change max users
 fw.max_users=4
+fw.show_multiuserui=1
