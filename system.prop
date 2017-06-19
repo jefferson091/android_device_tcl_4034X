@@ -69,11 +69,10 @@ persist.tone_relative_volume=100
 ro.mediatek.chip_ver=S01
 ro.mediatek.version.release=Alcatel-4034X-Android6.0
 ro.mediatek.platform=MT6580
-ro.telephony.sim.count=1
+ro.telephony.sim.count=2
 persist.radio.default.sim=0
-persist.radio.multisim.config=none
 persist.md.perm.checked=to_upgrade
-persist.gemini.sim_num=1
+persist.gemini.sim_num=2
 ro.gemini.smart_sim_switch=false
 ril.specific.sm_cause=0
 bgw.current3gband=0
@@ -187,3 +186,6 @@ ro.config.low_ram=true
 # change max users
 fw.max_users=4
 fw.show_multiuserui=1
+
+# dual sim ui
+dualsim.ui.support=false
