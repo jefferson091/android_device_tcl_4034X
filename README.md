@@ -1,6 +1,7 @@
 # android_device_tcl_4034X
 
 ---no longer maintained---
+
 reacently, i managed to get mobile upgrade tool to work, and my 4034Xis now supposedly on stock. It is looking suspicious, as the rom is 4034G, recovery is for 4034E, and the little code i've looked at from what i've pulled, it doesn't look extremely proffessional, but it works, and ill probably be taking some code from it, and modifying this to work properly, but i wont be able to test it, as the phone is now in use, and no longer a backup. (part of the reason we wanted to get stock back)
 
 This was forked from a similar device (5010D), and changed to the correct screen size etc, however, if you think I've missed somehting/not correctly ported ot (very likely) , feel free to create a pull requst with appropiate changes
