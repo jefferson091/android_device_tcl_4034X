@@ -71,6 +71,7 @@ ro.mediatek.version.release=Alcatel-4034X-Android6.0
 ro.mediatek.platform=MT6580
 ro.telephony.sim.count=2
 persist.radio.default.sim=0
+persist.radio.multisim.config=dsds
 persist.md.perm.checked=to_upgrade
 persist.gemini.sim_num=2
 ro.gemini.smart_sim_switch=false
